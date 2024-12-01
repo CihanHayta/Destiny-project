@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../12_cuma_projeleri-main/destiny_website/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "destiny"
+	}
+}
